@@ -1,6 +1,6 @@
 # BISTRO 450/850 µm polarimetry series: manuscripts submitted to PASJ
 
-This repository holds the three papers of the BISTRO 450/850 µm polarimetry series as submitted to *Publications of the Astronomical Society of Japan* (PASJ) on 21 October 2026.
+This repository holds the three papers of the BISTRO 450/850 µm polarimetry series as submitted to *Publications of the Astronomical Society of Japan* (PASJ) on 2026 October 21.
 The PDFs are the Author's Original Versions, that is, the manuscripts before peer review.
 
 | Paper | Title | PDF | arXiv |
@@ -13,7 +13,7 @@ Authors: Ray S. Furuya et al. and the BISTRO Collaboration. The three papers hav
 
 The PDFs carry line and page numbers, as required for review. In the PDF of Paper S2, the images were resampled to 300 ppi to keep the file within the size limit of the PASJ submission system; the text is the same as in the build at full resolution.
 
-Each page carries one line in its bottom margin that names this version: "Submitted to PASJ on 21 October 2026 (Author's Original Version, not peer reviewed). GitHub version 1, 21 October 2026: https://github.com/450um1G/PASJ2026". Apart from this line, the PDFs are those uploaded to the PASJ submission system.
+Each page carries one line in its bottom margin that names this version: "Submitted to PASJ on 2026 October 21 (Author's Original Version, not peer reviewed). GitHub version 1, 2026 October 21: https://github.com/450um1G/PASJ2026". Apart from this line, the PDFs are those uploaded to the PASJ submission system.
 
 When the papers are accepted and published, links to the published versions will be added here.
 
@@ -22,9 +22,9 @@ When the papers are accepted and published, links to the published versions will
 PDFs in this repository:
 
 ```
-a2767c315c4eb748e1ccbb28ef1880f5  RSFuruya_PaperT_2026Oct21submitted.pdf
-d50db02215755202927e6aaedd00a64d  RSFuruya_PaperS1_2026Oct21submitted.pdf
-9fd9e0bbba736a08352d8bff8107ee95  RSFuruya_PaperS2_2026Oct21submitted.pdf
+e5875ba5e7c49eb5bd8dd2e6e6ee4612  RSFuruya_PaperT_2026Oct21submitted.pdf
+c27b5713703a21981a596e5de6c14823  RSFuruya_PaperS1_2026Oct21submitted.pdf
+f6ba8059d23ddf31b55fbab5e6db31cf  RSFuruya_PaperS2_2026Oct21submitted.pdf
 ```
 
 PDFs as uploaded to the PASJ submission system (without the line naming the version):
