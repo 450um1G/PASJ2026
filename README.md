@@ -5,8 +5,8 @@ The PDFs are the Author's Original Versions, that is, the manuscripts before pee
 
 | Paper | Title | PDF | arXiv |
 |---|---|---|---|
-| T | B-fields In STar-forming Region Observations (BISTRO): Technical Foundations for Quantitative 450/850 μm JCMT SCUBA-2/POL-2 Polarimetry | [RSFuruya_PaperT_2026Oct21submitted.pdf](./RSFuruya_PaperT_2026Oct21submitted.pdf) (75 pages, 8.3 MB) | to be added |
-| S1 | B-fields In STar-forming Region Observations (BISTRO): Dual-Wavelength Constraints on Size-Dependent Grain Alignment in Star-Forming Regions | [RSFuruya_PaperS1_2026Oct21submitted.pdf](./RSFuruya_PaperS1_2026Oct21submitted.pdf) (45 pages, 3.3 MB) | to be added |
+| T | B-fields In STar-forming Region Observations (BISTRO): Technical Foundations for Quantitative 450/850 μm JCMT SCUBA-2/POL-2 Polarimetry | [RSFuruya_PaperT_2026Oct21submitted.pdf](./RSFuruya_PaperT_2026Oct21submitted.pdf) (75 pages, 8.3 MB) | [arXiv:2610.29273](https://arxiv.org/abs/2610.29273) |
+| S1 | B-fields In STar-forming Region Observations (BISTRO): Dual-Wavelength Constraints on Size-Dependent Grain Alignment in Star-Forming Regions | [RSFuruya_PaperS1_2026Oct21submitted.pdf](./RSFuruya_PaperS1_2026Oct21submitted.pdf) (45 pages, 3.3 MB) | [arXiv:2610.29285](https://arxiv.org/abs/2610.29285) |
 | S2 | B-fields In STar-forming Region Observations (BISTRO): Population-Level Universality and Environmental Structuring of 450/850 μm Polarization Signatures | [RSFuruya_PaperS2_2026Oct21submitted.pdf](./RSFuruya_PaperS2_2026Oct21submitted.pdf) (160 pages, 17.9 MB) | to be posted in November 2026 |
 
 Authors: Ray S. Furuya et al. and the BISTRO Collaboration. The three papers have different author lists; see the first page of each PDF.
